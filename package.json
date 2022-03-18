@@ -1,0 +1,23 @@
+{
+  "name": "command-line-alerts",
+  "version": "0.0.1",
+  "description": "Cross platform CLI Alerts with colors &amp; colored symbols for success, info, warning, error. Work on macOS, Linux, and Windows.",
+  "repository": "https://github.com/dev-arminder/Command-Line-Alerts",
+  "author": {
+    "name": "Arminder Singh",
+    "email": "mail.to.arminder.singh@gmail.com",
+    "url": "https://github.com/dev-arminder"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "command Line Alerts",
+    "Arminder Singh",
+    "Singh"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  }
+}
