@@ -1,6 +1,6 @@
 {
   "name": "command-line-alerts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cross platform CLI Alerts with colors &amp; colored symbols for success, info, warning, error. Work on macOS, Linux, and Windows.",
   "repository": "https://github.com/dev-arminder/Command-Line-Alerts",
   "author": {
